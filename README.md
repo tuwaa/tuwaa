@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="tuwaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="tuwaa" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, React Native**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Vergel T. Scalercio</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">An aspiring Software Engineer and Developer</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="tuwaa" /> </p>
 
@@ -24,5 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuwaa&" alt="tuwaa" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tuwaa"> <img align="left" src="https://www.buymeacoffee.com/joshuascalercio/buttons/v2/default-yellow.png" height="50" width="210" alt="tuwaa" /></a></p><br><br>
+

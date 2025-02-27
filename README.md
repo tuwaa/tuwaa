@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joshua Vergel T. Scalercio</h1>
-<h3 align="center">An aspiring Software Engineer and Developer</h3>
+<h3 align="center">Aspiring Software Engineer | Q/A Analyst |  Web Developer</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="tuwaa" /> </p>
 
 
-- 🌱 I’m currently learning **Javascript, React Native**
+- 🌱 I’m currently learning **Javascript, React Native, ReactJS**
 
-- 💬 Ask me about **python, react**
+- 💬 Ask me about **python, web development**
 
 - 📫 How to reach me **tuwa2421@gmail.com**
 
